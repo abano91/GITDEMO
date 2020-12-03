@@ -5,8 +5,8 @@ __pycache__/
 
 # C extensions
 *.so
-# .DS_store
-# .DS_store
+# .DS_Store
+# .DS_Store
 .Python
 build/
 develop-eggs/
